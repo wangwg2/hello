@@ -1,2 +1,4 @@
-github.com/wangwg2/stringutil v0.1.0 h1:JynAZFd/MTRldu3hXKBVtgoo7yVjRhxfedEtmIdQZEo=
-github.com/wangwg2/stringutil v0.1.0/go.mod h1:ZeECoRbIzc9gWSuW1Kv35T42ZO818pABX6FiByjDgoU=
+gitee.com/wangwg2/goutils v0.1.0 h1:ZIrzfOevEQUTU8+d+aBqLfYKAxUOPD5IQpwY+IY+8Ho=
+gitee.com/wangwg2/goutils v0.1.0/go.mod h1:CHHjlXWOOP7smZrG/5nxAYnGQq2Blxgr5LlcGXbrSwY=
+github.com/wangwg2/stringutil v0.2.0 h1:oCjjwdTztN8AtC434X41Npfo1/t1meJBn6sLjFM+DJ4=
+github.com/wangwg2/stringutil v0.2.0/go.mod h1:ZeECoRbIzc9gWSuW1Kv35T42ZO818pABX6FiByjDgoU=
