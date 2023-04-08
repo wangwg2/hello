@@ -27,3 +27,10 @@ go work use ./stringutil
 # 运行 hellogo
 go run github.com/wangwg2/hellogo
 ```
+
+
+```bash
+# hellogo
+go mod tidy
+go run hellogo.go
+```
